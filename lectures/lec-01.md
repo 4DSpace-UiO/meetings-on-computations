@@ -2,7 +2,8 @@
 
 ## Date: 13.04.2021, 16:00 CET
 
-## Speaker: [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) 
+## Speaker: 
+### [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) 
 
 ![richard-marchand](assets/images/richard-marchand.jpeg) | Prof. Marchand is expert on Computational Physics. His interest Physics of spacecraft interaction with space environment, Ionospheric and magnetospheric physics, Particle in Cell (PIC) simulations, Finite elements, Structured and unstructured meshes
 
