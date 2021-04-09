@@ -5,7 +5,7 @@
 ## Speaker: 
 ### [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) 
 
-![richard-marchand](assets/images/richard-marchand.jpeg) | Prof. Marchand is expert on Computational Physics. His interest Physics of spacecraft interaction with space environment, Ionospheric and magnetospheric physics, Particle in Cell (PIC) simulations, Finite elements, Structured and unstructured meshes
+![richard-marchand](assets/images/richard-marchand.jpeg?s=200) | Prof. Marchand is expert on Computational Physics. His interest Physics of spacecraft interaction with space environment, Ionospheric and magnetospheric physics, Particle in Cell (PIC) simulations, Finite elements, Structured and unstructured meshes
 
 ## Abstract
 The accurate inference of plasma parameters from particle sensor measurements remains a daunting
