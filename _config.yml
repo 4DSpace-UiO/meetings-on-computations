@@ -2,6 +2,6 @@
 title: Meetings on Computations
 logo: /assets/img/logo.png
 description: 
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
