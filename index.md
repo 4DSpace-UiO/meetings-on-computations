@@ -1,4 +1,4 @@
-## Welcome to Meetings on Computational Physics
+# Welcome to Meetings on Computational Physics
 
 The study and implementation of numerical analysis to solve problems in physics is the norm for modern research. However, it started as the first application of modern computers in science, now has become a subset of computational science. Whether being considered a subdiscipline of theoretical physics or an intermediate branch between theoretical and experimental physics, computational physics is regarded as an integral part of the research world.
 
@@ -11,14 +11,4 @@ Date | Speaker | Title
 ------------ | ------------- | ------------
 13.04.2021 | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Inference of particle sensor measurements: Beyond analytic models
 
-
-
-# Lecture description
-
-[Lecture 1](lecture1.md) | [Lecture 2](lecture2.md) | [Lecture 3](lecture3.md) | [Lecture 4](lecture4.md) | [Lecture 5](lecture5.md) | [Lecture 6](lecture6.md)
------------- | ------------- | ------------ | ------------- | ------------ | ------------- 
-[Resources](resources/resource_lecture1.md) | [Resources](resources/resource_lecture2.md) | None      | None      | None      | [Resources](resources/resource_lecture6.md) 
-None      | None      | [Quiz](quiz/quiz_lecture3.md)      | None      | [Quiz](quiz/quiz_lecture5.md)      | [Quiz](quiz/quiz_lecture6.md)      
-None      | None      | None      | None      | None      | None      
-[YouTube](https://youtu.be/m_dle8vr3dU)      | [YouTube](https://youtu.be/B0wgOq_ECpI)      | [YouTube](https://youtu.be/AS2ubgAKW80)      | [YouTube](https://youtu.be/zDAMAdWk0DM)      | [YouTube](https://youtu.be/Jd86s2-8Zi0)      | [YouTube](https://youtu.be/XTalV2kUDPA)   
 
