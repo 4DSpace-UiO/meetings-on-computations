@@ -4,7 +4,14 @@ The study and implementation of numerical analysis to solve problems in physics 
 
 Here at 4DSpace, we believe in open-sourced culture for computation. We thrive on exchanging ideas to create better algorithms for solving intricate physics problems. With such a purpose, we are inviting experts from different universities and laboratories around the world to share their knowledge and guide young researchers in their respective fields. Such meetings will be held once a month and will be open to the public. 
 
-The schedule for such meetings is provided below.
+The schedule for such meetings is provided at the bottom.
+
+
+## Upcoming Talk
+
+Date | Speaker | Title      
+------------ | ------------ | ------------
+13.04.2021 | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | [Inference of particle sensor measurements: Beyond analytic models](lectures/lec-01.md)
 
 ## Schedule
 
@@ -12,9 +19,3 @@ Date | Speaker | Title
 ------------ | ------------ | ------------
 13.04.2021 | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Inference of particle sensor measurements: Beyond analytic models
 - | - | - 
-
-## Upcoming Talk
-
-Date | Speaker | Title      
------------- | ------------ | ------------
-13.04.2021 | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Inference of particle sensor measurements: Beyond analytic models
