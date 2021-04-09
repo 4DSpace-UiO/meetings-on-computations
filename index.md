@@ -6,25 +6,13 @@ Here at 4DSpace, we believe in open-sourced culture for computation. We thrive o
 
 The schedule for such meetings is provided below.
 
-### Markdown
+### Schedule
+Date         | Speaker       | Title 
+------------ | ------------- | ------------ 
+13.04.2021   | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Inference of particle sensor measurements: Beyond analytic models
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<!--[Link](url) and ![Image](src)->
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
