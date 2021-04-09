@@ -1,6 +1,6 @@
 # Inference of particle sensor measurements: Beyond analytic models
 
-## Date: 13.04.2021 16:00 CET
+## Date: 13.04.2021, 16:00 CET
 
 ## Speaker: [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) 
 
