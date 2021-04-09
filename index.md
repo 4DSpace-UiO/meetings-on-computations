@@ -6,10 +6,10 @@ Here at 4DSpace, we believe in open-sourced culture for computation. We thrive o
 
 The schedule for such meetings is provided below.
 
-### Schedule
-Date         | Speaker      | Title      
+# Schedule
+Date | Speaker | Title      
 ------------ | ------------- | ------------
-13.04.2021  | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Inference of particle sensor measurements: Beyond analytic models
+13.04.2021 | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Inference of particle sensor measurements: Beyond analytic models
 
 
 
