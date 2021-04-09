@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Meetings on Computational Physics
 
-You can use the [editor on GitHub](https://github.com/4DSpace-UiO/meetings-on-computations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The study and implementation of numerical analysis to solve problems in physics is the norm for modern research. However, it started as the first application of modern computers in science, now has become a subset of computational science. Whether being considered a subdiscipline of theoretical physics or an intermediate branch between theoretical and experimental physics, computational physics is regarded as an integral part of the research world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here at 4DSpace, we believe in open-sourced culture for computation. We thrive on exchanging ideas to create better algorithms for solving intricate physics problems. With such a purpose, we are inviting experts from different universities and laboratories around the world to share their knowledge and guide young researchers in their respective fields. Such meetings will be held once a month and will be open to the public. 
+
+The schedule for such meetings is provided below.
 
 ### Markdown
 
@@ -26,12 +28,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4DSpace-UiO/meetings-on-computations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
