@@ -1,4 +1,4 @@
-# Welcome to Meetings on Computational Physics
+# Welcome to the Meetings on Computational Physics
 
 The study and implementation of numerical analysis to solve problems in physics is the norm for modern research. However, it started as the first application of modern computers in science, now has become a subset of computational science. Whether being considered a subdiscipline of theoretical physics or an intermediate branch between theoretical and experimental physics, computational physics is regarded as an integral part of the research world.
 
