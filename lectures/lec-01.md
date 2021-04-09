@@ -7,7 +7,7 @@
 
 ![richard-marchand](assets/images/richard-marchand.jpeg)
 
-Prof. Marchand is expert on Computational Physics. His interest Physics of spacecraft interaction with space environment, Ionospheric and magnetospheric physics, Particle in Cell (PIC) simulations, Finite elements, Structured and unstructured meshes
+Prof. Marchand is an expert on Computational Physics. His interest lies in physics of spacecraft interaction with space environment, ionospheric and magnetospheric physics, Particle-in-Cell (PIC) simulations, finite elements, structured and unstructured meshes
 
 ## Abstract
 The accurate inference of plasma parameters from particle sensor measurements remains a daunting
