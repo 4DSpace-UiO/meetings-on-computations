@@ -1,6 +1,7 @@
 # Inference of particle sensor measurements: Beyond analytic models
-## Speaker: 
-Prof. Richard Marchand, University of Alberta, Edmonton, Canada
+## Speaker:
+
+![richard-marchand](assets/images/richard-marchand.jpeg) | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Prof. Marchand is expert on Computational Physics. His interest Physics of spacecraft interaction with space environment, Ionospheric and magnetospheric physics, Particle in Cell (PIC) simulations, Finite elements, Structured and unstructured meshes
 
 ## Abstract
 The accurate inference of plasma parameters from particle sensor measurements remains a daunting
