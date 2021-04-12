@@ -5,7 +5,7 @@
 ## Speaker: 
 ### [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) 
 
-![richard-marchand](assets/images/richard-marchand.jpeg)
+<!--![richard-marchand](assets/images/richard-marchand.jpeg)-->
 
 Prof. Marchand is an expert on Computational Physics. His interest lies in physics of spacecraft interaction with space environment, ionospheric and magnetospheric physics, Particle-in-Cell (PIC) simulations, finite elements, structured and unstructured meshes.
 
