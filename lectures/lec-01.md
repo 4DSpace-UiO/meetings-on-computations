@@ -1,10 +1,10 @@
 # Inference of particle sensor measurements: Beyond analytic models
 
 ## Date: 13.04.2021, 16:00 CET
-
+<!--
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-04-13 16:00">The meeting will start in</a>
-
+-->
 ## Speaker: 
 ### [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) 
 
