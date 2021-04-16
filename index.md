@@ -10,8 +10,8 @@ The schedule for the meetings is provided at the bottom, and will be continually
 ## Upcoming Talk
 
 Date | Speaker | Title      
------------- | ------------ | ------------
-13.04.2021 | [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) | [Inference of particle sensor measurements: Beyond analytic models](lectures/lec-01.md)
+------------ | ------------ | ------------ | ------------
+13.04.2021 | [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) | [Inference of particle sensor measurements: Beyond analytic models](lectures/lec-01.md) | [Download Slides](lectures/assets/slides/talk01.pdf)
 
 <!--
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
@@ -20,6 +20,6 @@ Date | Speaker | Title
 ## Schedule
 
 Date | Speaker | Title      
------------- | ------------ | ------------
-13.04.2021 | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Inference of particle sensor measurements: Beyond analytic models
+------------ | ------------ | ------------ | ------------
+13.04.2021 | Prof. Richard Marchand, University of Alberta, Edmonton, Canada | Inference of particle sensor measurements: Beyond analytic models | [Download Slides](lectures/assets/slides/talk01.pdf)
 - | - | - 
