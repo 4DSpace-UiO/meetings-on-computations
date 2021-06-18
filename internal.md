@@ -34,7 +34,7 @@ Date     | Speaker       | Title
 ---      | ---           | ---
 27.04.21 |               | *(no meeting)*
 11.05.21 | Sayan         | Beam-driven instabilities
-25.05.21 | Sigvald       | Efficient Code Implementation: A Particle-In-Cell Case Study
+25.05.21 | Sigvald       | Efficient Code Implementation: A Particle-In-Cell Case Study | [video](protected/redirect_example)
 08.05.21 |               | *(no meeting)*
 22.06.21 | Anna          | 
          |               | *(no meetings due to Summer)*
