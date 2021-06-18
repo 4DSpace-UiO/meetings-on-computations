@@ -6,6 +6,7 @@ At [4DSpace](https://www.mn.uio.no/fysikk/english/research/projects/4dspace/), w
 
 The schedule for the meetings is provided at the bottom, and will be continually updated.
 
+([Go to page for internal meetings](internal.md))
 
 ## Upcoming Talk
 
