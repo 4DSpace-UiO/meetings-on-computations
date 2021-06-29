@@ -22,11 +22,11 @@ Date     | Speaker       | Title
 10.11.20 | Sigvald       | Introduction to PUNC++
 24.11.20 | Morgan        | Memristor-like behaviour in Langmuir probes
 01.12.20 | Steffen       | Introduction to PINC and collisions with neutrals
-08.12.20 | Sigvald       | RBF networks for Langmuir probes
+08.12.20 | Sigvald       | RBF networks for Langmuir probes | [slides](protected/201208-Sigvald-RBFNetworksForLangmuirProbes.pdf.7z)
 15.12.20 | Sayan         | Demonstration of the Gkeyll suite of codes for plasma simulations
 26.01.21 | Steffen       | Challenges related to collisional solver in PINC
 16.02.21 | Sayan/Sigvald | Simulations of the plasma chamber
-02.03.21 | Sigvald       | Making publication-quality figures
+02.03.21 | Sigvald       | Making publication-quality figures | [slides](protected/210302-Sigvald-MakingPublicationQualityFigures.tar.gz.7z)
 16.03.21 | Steffen       | Comparison of performance for C and various Python libraries
 30.03.21 |               | *(no meeting due to Easter)*
 ---      | ---           | ---
@@ -34,7 +34,14 @@ Date     | Speaker       | Title
 ---      | ---           | ---
 27.04.21 |               | *(no meeting)*
 11.05.21 | Sayan         | Beam-driven instabilities
-25.05.21 | Sigvald       | Efficient Code Implementation: A Particle-In-Cell Case Study | [video](protected/redirect_example)
+25.05.21 | Sigvald       | Efficient Code Implementation: A Particle-In-Cell Case Study | [slides](protected/210525-Sigvald-EfficientCodeImplementation.pdf.7z) [video](protected/redirect_example) [code](https://github.com/sigvaldm/minipic)
 08.05.21 |               | *(no meeting)*
-22.06.21 | Anna          | 
+22.06.21 | Anna          | Numerical methods
          |               | *(no meetings due to Summer)*
+17.08.21 |               | 
+31.08.21 |               |
+14.09.21 |               |
+12.10.21 |               |
+26.10.21 |               |
+09.11.21 |               |
+07.12.21 |               |
