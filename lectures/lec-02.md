@@ -1,6 +1,6 @@
 # Alfven waves: _scatter, _gather
 
-## Date: 13.04.2021, 16:00 CET
+## Date: 14.09.2021, 14:00 CET
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-qeg8" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-09-14 14:00">Meetings on Computations</a>
 ## Speaker: 
