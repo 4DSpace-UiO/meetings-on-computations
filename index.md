@@ -22,4 +22,5 @@ Date | Speaker | Title
 Date | Speaker | Title      
 ------------ | ------------ | ------------ | ------------
 14.09.2021 | [Dr. Rupak Mukherjee, PPPL, New Jersey, USA](https://theory.pppl.gov/people/profile.php?pid=155&n=Rupak-Mukherjee) | [Alfven wave: _scatter, _gather](lectures/lec-02.md) | [Download Slides](#)
+
 13.04.2021 | [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) | [Inference of particle sensor measurements: Beyond analytic models](lectures/lec-01.md) | [Download Slides](lectures/assets/slides/talk01.pdf)
