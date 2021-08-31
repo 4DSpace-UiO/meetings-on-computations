@@ -2,11 +2,11 @@
 
 ## Date: 14.09.2021, 14:00 CET
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-qeg8" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-09-14 14:00">Meetings on Computations</a>
+<a href="https://logwork.com/countdown-qeg8" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-09-14 14:00">The meeting will start in</a>
 ## Speaker: 
 ### [Dr. Rupak Mukherjee, PPPL, New Jersey, USA](https://theory.pppl.gov/people/profile.php?pid=155&n=Rupak-Mukherjee) 
 
-![Rupak-Mukherjee](assets/images/rupak.jpeg)
+![Rupak-Mukherjee](assets/images/rupak.png)
 
 Prof. Marchand is an expert on Computational Physics. His interest lies in physics of spacecraft interaction with space environment, ionospheric and magnetospheric physics, Particle-in-Cell (PIC) simulations, finite elements, structured and unstructured meshes.
 
