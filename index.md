@@ -15,10 +15,8 @@ Date | Speaker | Title
 14.09.2021 | [Dr. Rupak Mukherjee, PPPL, New Jersey, USA](https://theory.pppl.gov/people/profile.php?pid=155&n=Rupak-Mukherjee) | [Alfven wave: _scatter, _gather](lectures/lec-02.md) | [Download Slides](#)
 13.04.2021 | [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) | [Inference of particle sensor measurements: Beyond analytic models](lectures/lec-01.md) | [Download Slides](lectures/assets/slides/talk01.pdf)
 
-<!--
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-04-13 16:00">The meeting will start in</a>
--->
+<a href="https://logwork.com/countdown-qeg8" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-09-14 14:00">The meeting will start in</a>
 ## Schedule
 
 Date | Speaker | Title      
