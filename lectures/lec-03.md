@@ -1,12 +1,12 @@
 # Potential Around a Dust Grain in Collisional Plasma
 
 ## Date: 12.10.2021, 13:30 CET
-<!-- 
-<script src="https://cdn.logwork.com/widget/countdown.js"></script> 
-<a href="https://logwork.com/countdown-qeg8" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-09-14 14:00">The meeting will start in</a>
--->
+
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-qg7e" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-10-12 13:30">The meeting will start in</a>
+
 ## Speaker: 
-### [Dr. Rakesh Moulick, Department of Physics, Rangapara College, Rangapara, Sonitpur, Assam-784505 (India)](http://rangaparacollege.com/index.php?home/department/physics) 
+### [Dr. Rakesh Moulick, Department of Physics, Rangapara College, Assam, India](http://rangaparacollege.com/index.php?home/department/physics) 
 
 ![Rakesh-Moulick](assets/images/rakesh.jpg)
 
