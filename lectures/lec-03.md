@@ -18,11 +18,11 @@ The ion neutral collision can cause intriguing dust charging phenomena that are 
 <img width="623" alt="figures" src="https://user-images.githubusercontent.com/11753189/132109353-20f7baf8-1cb4-449a-84c9-ed7f33819364.png">
 
 ## References: 
-[1] C. Castaldo, U. de. Angelis, and V. N. Tsytovich, Phys. Rev. Lett. 96, 075004 (2006).
-[2] S. A. Khrapak, B. A. Klumov, and G. E. Morfill, Phys. Rev. Lett. 100, 225003 (2008).
-[3] J. E. Allen, R. L. F. Boyd, and P. Reynolds, Proc. Phys. Soc. B 70, 297 (1957).
-[4] S. A. Self and C. H. Shih, Phys. Fluids 11, 1532 (1968).
-[5] R. V. Kennedy and J. E. Allen, J. Plasma Phys. 67, 243 (2002).
+1. C. Castaldo, U. de. Angelis, and V. N. Tsytovich, Phys. Rev. Lett. 96, 075004 (2006).
+2. S. A. Khrapak, B. A. Klumov, and G. E. Morfill, Phys. Rev. Lett. 100, 225003 (2008).
+3. J. E. Allen, R. L. F. Boyd, and P. Reynolds, Proc. Phys. Soc. B 70, 297 (1957).
+4. S. A. Self and C. H. Shih, Phys. Fluids 11, 1532 (1968).
+5. R. V. Kennedy and J. E. Allen, J. Plasma Phys. 67, 243 (2002).
 
 
 
