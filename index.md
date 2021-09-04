@@ -21,5 +21,6 @@ Date | Speaker | Title
 
 Date | Speaker | Title      
 ------------ | ------------ | ------------ | ------------
+12.10.2021 | [Dr. Rakesh Moulick, Department of Physics, Rangapara College, Assam, India](http://rangaparacollege.com/index.php?home/department/physics) | [Potential Around a Dust Grain in Collisional Plasma](lectures/lec-03.md) | [Download Slides](#)
 14.09.2021 | [Dr. Rupak Mukherjee, PPPL, New Jersey, USA](https://theory.pppl.gov/people/profile.php?pid=155&n=Rupak-Mukherjee) | [Alfven wave: _scatter, _gather](lectures/lec-02.md) | [Download Slides](#)
 13.04.2021 | [Prof. Richard Marchand, University of Alberta, Edmonton, Canada](https://sites.ualberta.ca/~rmarchan/) | [Inference of particle sensor measurements: Beyond analytic models](lectures/lec-01.md) | [Download Slides](lectures/assets/slides/talk01.pdf)
