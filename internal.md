@@ -38,7 +38,8 @@ Date     | Speaker       | Title
 08.05.21 |               | *(no meeting)*
 22.06.21 | Anna          | Numerical methods
          |               | *(no meetings due to Summer)*
-14.09.21 (14:00 - 15:00) | **Dr. Rupak Mukherjee, PPPL, New Jersey, USA** | Alfven wave: _scatter, _gather
+14.09.21 (14:00 - 15:00) | **Dr. Rupak Mukherjee, PPPL, New Jersey, USA** | Alfven wave: \_scatter, \_gather | [slides](protected/210914-Rupak-Slides.pdf.7z) [video](protected/210914-Rupak-Video.html)
+
 12.10.21 |               |
 26.10.21 |               |
 09.11.21 |               |

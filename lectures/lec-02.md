@@ -16,5 +16,4 @@ He is currently working in the "Gkeyll" project [a discontinuous-Galerkin method
 Fifty one years ago Hannes Alfven won the prestigious Nobel prize "_for fundamental work and discoveries in magneto-hydrodynamics with fruitful applications in different parts of plasma-physics_". Since then, Alfven waves have explained many surprises of nature, both terrestrial as well as in _3DSpace_. With time, the fulcrum of theoretical research shifted from analytical to more computationally-involved. Thus Alfven waves are now-a-days simulated in high-performance-supercomputers to understand solar coronal heating or the plasma turbulence inside laboratory fusion devices. Most of these studies talk about the decay processes of Alfven waves in plasma. On the contrary, I will hinge around some new analytical as well as numerical-heavy observation of scattering of Alfven waves and further restoration of the wave-structure. This recently discovered nonlinear oscillatory phenomena certainly deserves credit "_for the significant contribution in Recurrence in three dimensional magnetohydrodynamic plasma_".
 
 ## Slides
-[Download Slides](#)
-
+[Download Slides](assets/slides/talk02.pdf)
