@@ -12,7 +12,6 @@ The schedule for the meetings is provided at the bottom, and will be continually
 
 Date | Speaker | Title      
 ------------ | ------------ | ------------ | ------------
-12.10.2021 | [Dr. Rakesh Moulick, Scientific Officer - D, Guwahati, Assam, India](http://www.cppipr.res.in) | [Potential Around a Dust Grain in Collisional Plasma](lectures/lec-03.md) | [slides](#)
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-qg7e" class="countdown-timer" data-timezone="Europe/Oslo" data-date="2021-10-12 13:30">The meeting will start in</a>
