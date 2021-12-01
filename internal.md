@@ -40,4 +40,4 @@ Date     | Speaker       | Title
          |               | *(no meetings due to Summer)*
 14.09.21 (14:00 - 15:00) | **Dr. Rupak Mukherjee, PPPL, New Jersey, USA** | Alfven wave: \_scatter, \_gather | [slides](protected/210914-Rupak-Slides.pdf.7z) [video](protected/210914-Rupak-Video.html)
 12.10.21 | **Dr. Rakesh Moulick, Centre of Plasma Physics - Institute for Plasma Research, Assam** | Potential Around a Dust Grain in Collisional Plasma | [slides](protected/211012-Moulick-Slides.pptx.7z) [video](protected/211012-Moulick-Video.html)
-30.11.21 | Pascal        | Transfer Learning Aurora Image Classification and Magnetic Disturbance Evaluation (TAME)
+30.11.21 | Pascal        | Transfer Learning Aurora Image Classification and Magnetic Disturbance Evaluation (TAME) | [slides](protected/211130-Pascal-Slides.pdf.7z) [video](protected/211130-Pascal-Video.html) [animation](protected/211130-Pascal-Animation.mp4.7z)
